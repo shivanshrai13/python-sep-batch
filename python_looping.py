@@ -26,10 +26,7 @@
 3 4 5
 """
 
-# natural Sum upto user given number 
-num = int(input("Enter the number "))
-s = 0 
-fori in ra range(1, num+1)
+
 
 
 
